@@ -1,0 +1,8 @@
+flask 
+pandas
+numpy
+flask_wtf
+wtforms
+wtforms.validators
+email-validator
+flask_sqlalchemy
